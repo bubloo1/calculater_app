@@ -1,0 +1,48 @@
+
+.container{
+  position: absolute;
+  background: rgba(5, 33, 59, 0.534);
+  width: 480px;
+  height: 542px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 15px;
+}
+
+.user_input{
+  height: 100px;
+  margin: 10px;
+  width: 94%;
+  font-size: 34px;
+  text-align: right;
+}
+
+
+.my_button{
+  padding: 20px 30px 20px 30px;
+  font-weight: bold;
+  color: black;
+  font-size: 21px;
+  cursor: pointer;
+  margin: 10px;
+  width: 100px;
+}
+
+.equals_to{
+  margin: 10px;
+  width: 220px;
+  font-weight: bold;
+  font-size: 21px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.reset{
+  margin: 10px;
+  width: 220px;
+  font-weight: bold;
+  font-size: 21px;
+  padding: 10px;
+  cursor: pointer;
+}
